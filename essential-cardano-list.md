@@ -138,6 +138,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Generation Two Securitization](https://www.gentwo.com/)
 - [Venus](https://venus.io/)
 - [Ardana](https://ardana.org/)
+- [Token Allies] (https://tokenallies.com/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
@@ -176,7 +177,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Dlab](https://dlab.vc/)
 - DC-fund
 - C-fund
-- Treasury Wave  
+- Treasury Wave 
 
 ### Games and Entertainment ###
 - [Ridotto](https://ridotto.io)
